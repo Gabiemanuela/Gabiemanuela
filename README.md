@@ -2,7 +2,7 @@
 
 - 🛠Técnica em Telecomunicações na @MasterServices.
 - ⚡ Formada em Engenharia Elétrica e Técnico em Mecatrônica.
-- 🌱 Atutalmente estudando JAVA e irei iniciar minha segunda graduação em Análise e desenvolvimento de Sistemas no primeiro semestre de 2022.
+- 🌱 Atutalmente estudando JAVA e estou cursando minha segunda graduação em Análise e desenvolvimento de Sistemas.
 
 <div align="center">
   <a href="https://github.com/Gabiemanuela">
