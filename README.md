@@ -1,7 +1,8 @@
 ### Olá! Eu sou a Gabriela Emanuela 
 
-- ⚡ Formada em Engenharia Elétrica e Técnico em Mecatrônica.
-- 🌱 Atualmente estudando JAVA e estou cursando minha segunda graduação em Análise e desenvolvimento de Sistemas.
+- ⚡Técnica em Mecatrônica
+- ⚡Engenheira Elétrica 
+- 🌱 Estudante de Análise e Desenvolvimento de Sistemas
 
 <div align="center">
   <a href="https://github.com/Gabiemanuela">
